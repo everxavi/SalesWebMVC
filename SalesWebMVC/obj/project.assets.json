@@ -12658,11 +12658,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectUniqueName": "C:\\github\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
       "projectName": "SalesWebMVC",
-      "projectPath": "C:\\Temp\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+      "projectPath": "C:\\github\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
       "packagesPath": "C:\\Users\\evert\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\SalesWebMVC\\SalesWebMVC\\obj\\",
+      "outputPath": "C:\\github\\SalesWebMVC\\SalesWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evert\\AppData\\Roaming\\NuGet\\NuGet.Config",
